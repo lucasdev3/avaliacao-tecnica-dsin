@@ -1,0 +1,19 @@
+10) Considerando o seguinte DER (Diagrama Entidade Relacionamento):
+Onde: NN= NOT NULL.
+
+A) É certo dizer que o relacionamento entre da tabela LCATENDIMENTO para
+CDFUNCIONARIO, é :
+[ ] 1:0 (Um para nenhum)
+[ ] 1:N (Um para muitos)
+[ ] N:1 (Muitos para um)
+[x] M:N (Muitos para Muitos)
+[ ] 0:N (Zero a muitos)
+
+B) Assinale com X as afirmações corretas:
+[x] Nenhum atendimento pode possuir a mesma data e hora;
+[ ] Um funcionário pode atender vários clientes, sendo um cliente por vez;
+[ ] Um funcionário pode atender um cliente que não possua um nome
+cadastrado;
+[x] Um cliente pode estar cadastrado e não ter nenhum atendimento;
+[x] Um cliente pode ser atendido por vários funcionários, sendo um
+funcionário por vez.

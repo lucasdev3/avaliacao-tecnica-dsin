@@ -1,0 +1,18 @@
+13) Um cliente importante da empresa entrou em contato com nosso time de
+atendimento, solicitando três novos relatórios a serem utilizados em uma reunião de
+fechamento mensal que ocorrerá daqui a 15 dias. O time responsável pelo produto
+definiu um prazo de 10 dias para disponibilização dos relatórios. A solicitação chegou
+para que você desenvolvesse os 3 relatórios dentro do prazo fornecido ao cliente. Você
+finalizou o primeiro relatório em 6 dias. Considerando que os dois próximos relatórios
+são de complexidade similar ao primeiro, e considerando que o setor de teste
+necessita de 3 dias para o teste das rotinas, quais ações você tomaria para realizar a
+entrega?
+
+Resposta:
+
+Para realizar a entrega dos três relatórios solicitados pelo cliente dentro do prazo estabelecido, é necessário
+considerar o tempo necessário para o desenvolvimento e teste das rotinas. Com base na complexidade similar dos relatórios,
+é possível estimar que serão necessários mais 6 dias para finalizar os próximos dois relatórios após o primeiro ter sido
+concluído em 6 dias. O setor de teste precisará de 3 dias para testar as rotinas, o que deve ser considerado ao planejar
+a entrega. Para realizar a entrega no prazo, é importante priorizar o desenvolvimento, antecipar o início do
+teste, acompanhar deperto o processo de teste e entregar os relatórios dentro do prazo estabelecido.

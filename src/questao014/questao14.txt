@@ -1,0 +1,23 @@
+14)
+Um cliente solicitou a alteração em uma rotina de cadastro de produtos para que alguns campos obrigatórios na tela
+(código da categoria, descrição detalhada, grupo do produto), passassem a ser opcionais de modo a agilizar o cadastro.
+Ao receber a demanda você realizou a análise e as alterações no sistema, sendo disponibilizada nova versão aos clientes.
+Quarenta dias após a disponibilização, alguns clientes entraram em contato com o suporte relatando divergência nas
+quantidades dos produtos em alguns relatórios do sistema.
+
+A) Que análise você faria para auxiliar o setor de suporte no atendimento do cliente?
+Resposta:
+Para auxiliar o setor de suporte no atendimento ao cliente, o primeiro passo seria avaliar se as mudanças na rotina
+de cadastro de produtos podem estar relacionadas às divergências nos relatórios. Também seria importante verificar se
+os campos que foram modificados estão sendo preenchidos corretamente pelos usuários. Caso seja necessário, é preciso
+avaliar se os relatórios em questão passaram por alguma modificação recentemente.
+
+
+B) Qual o diagnóstico sobre o possível problema? E quais ações devem ser tomadas para resolver o problema?
+Resposta:
+O diagnóstico para o problema pode ser que a alteração nos campos obrigatórios tenha afetado a geração dos relatórios.
+Para solucionar o problema, seria preciso realizar uma nova análise na rotina de cadastro de produtos e avaliar se é
+necessário reverter as mudanças realizadas anteriormente ou se há outra forma de garantir que os relatórios sejam gerados
+corretamente. É importante manter os clientes afetados atualizados sobre o diagnóstico e as ações tomadas para solucionar
+o problema. Como analista pleno, eu também sugeriria que a equipe de desenvolvimento crie testes automatizados para
+validar a geração de relatórios e evite alterações desnecessárias em campos que possam impactar na geração de relatórios.
